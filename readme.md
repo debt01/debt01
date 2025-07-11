@@ -18,8 +18,9 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=0EB9E4FF&center=true&width=500&height=30&lines=Hi+👋+I'm+a+Linux+Hunter!;Cyber-security+Expert.;Learning+In+Public.;Empowering+Others.;Nice+To+Meet+You+👨‍💻" alt="Typing SVG" />
 </p>
-<p align="center">
-   <img src ="https://img.freepik.com/premium-photo/person-working-computer-anime-style_922007-2429.jpg" width="620" />
+<p align="left">
+   <img src ="https://github.com/debt01/debt01/blob/main/OIP%20(1).webp" />
+</p>
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="470" alt="Hacker typing animation" />
 </p>
 <p align="center">
