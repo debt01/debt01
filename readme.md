@@ -1,19 +1,9 @@
+✨ Welcome to Linux Hunter's GitHub Profile ✨
 </h3>
 <div align="center">
   <img src="https://github.com/debt01/debt01/blob/main/758a.gif" >
 </div><p></p>
-<!--
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 
-✨ Welcome to Linux Hunter's GitHub Profile ✨
--->
 <!-- 🔐 Hacking / Cybersecurity Themed GIF -->
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=0EB9E4FF&center=true&width=500&height=30&lines=Hi+👋+I'm+a+Linux+Hunter!;Cyber-security+Expert.;Learning+In+Public.;Empowering+Others.;Nice+To+Meet+You+👨‍💻" alt="Typing SVG" />
@@ -32,7 +22,7 @@
    <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" alt="About Me GIF" width="120px">
    <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" alt="About Me GIF" width="120px">
 </p>
-## 🏆 GitHub New Learners 
+## 🏆 GitHub Learners 
 
 ## 🖥️ Technical Skills
 
@@ -74,7 +64,6 @@
 
 ## Some Useful links
 
-
 <div align="center">
   <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
   <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
@@ -82,17 +71,10 @@
   <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
   <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-</div
----
-
-## 🔥 WakaTime Stats
-
-<!--START_SECTION:waka-->
-
-```
-
+</div>
+  
 ### 🌟 Tech & Life Emoji Grid 🚀
-```
+<dev></dev>
 |   Code Magic   |    Digital Life    |  Nature & Mood   |   Cosmic Vibes   |
 | :------------: | :---------------: | :-------------: | :-------------: |
 | 🧠 `think`     | 🎮 `gaming`       | 🌈 `rainbow`    | 🚀 `launch`     |
@@ -100,10 +82,10 @@
 | 🔍 `debug`     | 🎨 `design`       | 🌱 `grow`       | ☄️ `comet`      |
 | 🛠️ `fix`       | 🎥 `stream`       | ⚡ `energy`     | 🌠 `wish`       |
 
-
 ## 💬 Let's Connect!
 Feel free to reach out to me if you have any questions, ideas, or just want to chat about tech. I'm always open to new opportunities and collaborations!
-###
+### DON'T TRY TO COPY MY TOOL, PROFILE OR SCRIPT 
+### [White Hat Hacker]
 
 <h3 align="center">
   <img src="https://github.com/debt01/debt01/blob/main/Q4P6.gif" width="150px">
