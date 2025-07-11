@@ -25,8 +25,12 @@
   
 </p>
 <p align="center">
-  <img src="" alt="About Me GIF" width="120px">
+  <img src="https://github.com/debt01/debt01/blob/main/2fd8ec76ff27cfddedaded765330475f_w200.webp" >
+</p>
+<p align="center">
   <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" alt="About Me GIF" width="120px">
+   <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" alt="About Me GIF" width="120px">
+   <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" alt="About Me GIF" width="120px">
 </p>
 ## 🏆 GitHub New Learners 
 
@@ -99,7 +103,7 @@
 
 ## 💬 Let's Connect!
 Feel free to reach out to me if you have any questions, ideas, or just want to chat about tech. I'm always open to new opportunities and collaborations!
-### Strategic Connections & Resources
+###
 
 <h3 align="center">
   <img src="https://c.tenor.com/ooi51RU2NloAAAAM/wink-cute.gif" width="122px">
