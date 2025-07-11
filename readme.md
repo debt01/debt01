@@ -20,7 +20,7 @@
 </p>
 <p align="left">
    <img src ="https://github.com/debt01/debt01/blob/main/OIP%20(1).webp" />
- <img src="https://github.com/debt01/debt01/blob/main/2fd8ec76ff27cfddedaded765330475f_w200.webp"width="280"  />
+ <img src="https://github.com/debt01/debt01/blob/main/OIP.webp"width="315"  />
 <p align="right">
   
 </p>
