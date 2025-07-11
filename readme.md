@@ -20,8 +20,9 @@
 </p>
 <p align="left">
    <img src ="https://github.com/debt01/debt01/blob/main/OIP%20(1).webp" />
-</p>
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="470" alt="Hacker typing animation" />
+ <img src="https://github.com/debt01/debt01/blob/main/2fd8ec76ff27cfddedaded765330475f_w200.webp"width="280"  />
+<p align="right">
+  
 </p>
 <p align="center">
   <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" alt="About Me GIF" width="120px">
