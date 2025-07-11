@@ -1,6 +1,8 @@
-![logo](https://github.com/tawfique02/tawfique02/blob/main/Navy%20And%20White%20Geomteric%20Technology%20Linkedln%20Banner%20(1).png)
+</h3>
+<div align="center">
+  <img src="https://github.com/debt01/debt01/blob/main/OIP.webp " >
+</div><p></p>
 <!--
-
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
