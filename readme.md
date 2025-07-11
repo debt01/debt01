@@ -108,9 +108,7 @@ Feel free to reach out to me if you have any questions, ideas, or just want to c
 <h3 align="center">
   <img src="https://c.tenor.com/ooi51RU2NloAAAAM/wink-cute.gif" width="122px">
   <img src="https://media1.tenor.com/m/OAry6dB7bs8AAAAC/jk.gif" width="114px">
-  <img src="https://c.tenor.com/1-GJkh8K6doAAAAM/mochi-mochimochi.gif" width="100px">
+  <img src="https://github.com/debt01/debt01/blob/main/Emhs.gif" width="150px">
   
 </h3>
-<div align="center">
-  <img src=" " width="1700px" height="350px" >
-</div>
+
